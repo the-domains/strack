@@ -1,0 +1,28 @@
+name: strack
+favicon: null
+layout_spectrum: 0.2952991835772991
+typography_spectrum: 0.2713712470140308
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7436047731898725
+  lightness: 0.025945422938093543
+  saturation: 0.9017205082345754
+  rhythmicContrast: 0.9851961373351514
+purpose: []
