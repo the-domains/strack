@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[All things stracktacular!]]></title>
+        <description><![CDATA[All things stracktacular!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 17:30:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64730d0-44a4-4496-a828-ca0e2fbd04a0.jpg">]]></description>
+            <link>undefinedbe-happy/index.html</link>
+            <guid isPermaLink="false">fe5d0c5f-8f03-4a98-9445-7fd2c931d1b7</guid>
+            <pubDate>Fri, 06 May 2016 17:29:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
