@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[All things stracktacular!]]></title>
         <description><![CDATA[All things stracktacular!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/strack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 17:30:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 17:32:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/strack/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c64730d0-44a4-4496-a828-ca0e2fbd04a0.jpg">]]></description>
-            <link>undefinedbe-happy/index.html</link>
+            <link>https://thegrid.ai/strack/be-happy/index.html</link>
             <guid isPermaLink="false">fe5d0c5f-8f03-4a98-9445-7fd2c931d1b7</guid>
-            <pubDate>Fri, 06 May 2016 17:29:34 GMT</pubDate>
+            <pubDate>Fri, 06 May 2016 17:32:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
